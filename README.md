@@ -38,20 +38,20 @@ Overall, Python's simplicity, versatility, and extensive ecosystem make it an ex
 
 ## Key principles and features of Object-Oriented Programming include:
 
-**Classes and Objects:**
+- **Classes and Objects:**
 Class: A class is a blueprint or template for creating objects. It defines a set of attributes (data members) and methods (functions) that the objects will have.
 Object: An object is an instance of a class. It represents a real-world entity and encapsulates the data and behavior defined by its class.
 
-**Encapsulation:**
+- **Encapsulation:**
 Encapsulation refers to the bundling of data and methods that operate on the data into a single unit (class). It helps in hiding the internal details of how an object's state is maintained.
 
-**Inheritance:**
+- **Inheritance:**
 Inheritance is a mechanism that allows a new class (subclass or derived class) to inherit properties and behaviors from an existing class (superclass or base class). It promotes code reuse and establishes a hierarchy of classes.
 
-**Polymorphism:**
+- **Polymorphism:**
 Polymorphism allows objects of different classes to be treated as objects of a common base class. It enables a single interface to represent different types, and it can be achieved through method overloading and method overriding.
 
-**Abstraction:**
+- **Abstraction:**
 Abstraction involves simplifying complex systems by modeling classes based on the essential properties and behaviors they share. It focuses on what an object does rather than how it achieves its functionality.
 
 OOP is widely used in modern software development because it promotes modular design, code reusability, and easier maintenance. Popular programming languages that support OOP include Java, C++, Python, and C#. Developers use OOP to model the structure and behavior of their applications in a way that mirrors the real-world scenarios they are addressing.
